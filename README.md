@@ -10,7 +10,7 @@
 
 
 
-Core Competencies:
+**Core Competencies:**
 
 - Data Analysis
 
@@ -22,7 +22,7 @@ Core Competencies:
 
 
 
-Technical Skills:
+**Technical Skills:**
 
 - Python
 
