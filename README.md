@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Data analytics
 
-- 🌱 I’m certified IBM Data Analyst Professional Certificate
+- 🌱 Certified IBM Data Analyst Professional Certificate
 
 - 💞️ I’m looking to collaborate on projects with similar minded people
 
