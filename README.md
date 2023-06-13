@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on projects with similar minded people
 
-- 📫 You can connect with me on LinkedIn: https://www.linkedin.com/in/divine-jude
+- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/divine-jude)
 
 
 
