@@ -1,3 +1,5 @@
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f4b49504571444755554c7045553061512f67697068792e676966](https://github.com/Divine-Jude/Divine-Jude/assets/95667763/1c5cbd3d-4aec-4ee0-a9e6-ee88704fe83a)
+
 - 👋 Hi, I’m Divine Jude
 
 - 👀 I’m interested in Data analytics
@@ -7,8 +9,6 @@
 - 💞️ I’m looking to collaborate on projects with similar minded people
 
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/divine-jude)
-  
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f4b49504571444755554c7045553061512f67697068792e676966](https://github.com/Divine-Jude/Divine-Jude/assets/95667763/1c5cbd3d-4aec-4ee0-a9e6-ee88704fe83a)
 
 **Core Competencies:**
 
