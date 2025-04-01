@@ -2,13 +2,13 @@
 
 Hi there, I'm Div👋
 
-I'm Divine Jude, a Backend Engineer based in Nigeria 🇳🇬.
+I'm Divine Jude, a Blockchain Analyst based in Nigeria 🇳🇬.
 
-🌱 I’m currently learning Flask & Node.js
+🌱 I’m currently learning about blockchain
 
 👯 I’m looking to collaborate on building open-source Node.js libraries
 
-📫 How to reach me: my 
+📫 How to reach me: my judedivine9@gmail.com
 
 😄 Pronouns: He/Him
 
