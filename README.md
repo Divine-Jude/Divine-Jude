@@ -2,11 +2,11 @@
 
 Hi there, I'm Div👋
 
-I'm Divine Jude, a Blockchain Analyst based in Nigeria 🇳🇬.
+I'm Divine Jude, a Blockchain Analyst and content writer based in Nigeria 🇳🇬.
 
 🌱 I’m currently learning about blockchain & Web3
 
-👯 I’m looking to collaborate on building open-source blockchain analystic projects
+👯 I’m looking to collaborate on building open-source blockchain analytics projects
 
 📫 How to reach me: my judedivine9@gmail.com
 
