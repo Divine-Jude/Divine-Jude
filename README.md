@@ -4,21 +4,23 @@ I’m an AI automation builder learning how to automate real business workflows 
 
 I’m learning by building:
 
-• simple automations with Python and no-code tools
+  • simple automations with Python and no-code tools
 
-• AI-powered workflows for tasks like email handling, data processing, and internal operations
+  • AI-powered workflows for tasks like email handling, data processing, and internal operations
 
-• practical systems that save time, reduce errors, and scale easily
+  • practical systems that save time, reduce errors, and scale easily
+  
 
 My goal is to grow into an AI automation engineer who builds reliable and useful automation.
 
+
 currently:
 
-• beginner level, actively learning
+  • beginner level, actively learning
 
-• documenting my progress and projects
+  • documenting my progress and projects
 
-• open to learning opportunities, internships, and collaborations
+  • open to learning opportunities, internships, and collaborations
 <!---
 Divine-Jude/Divine-Jude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
