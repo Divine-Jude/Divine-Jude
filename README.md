@@ -1,5 +1,5 @@
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f4b49504571444755554c7045553061512f67697068792e676966](https://github.com/Divine-Jude/Divine-Jude/assets/95667763/1c5cbd3d-4aec-4ee0-a9e6-ee88704fe83a)
-
+Hi my name is Divine Jude
+---
 I am an AI & Automation Engineer obsessed with taking complex, human-operated business processes and turning them into seamless, autonomous software logic.
 
 I love living at the intersection of traditional programming and modern AI. Today’s businesses don't just need basic API connections, they need intelligent systems that can make context-aware decisions. I design and build those systems.
@@ -15,6 +15,10 @@ I love living at the intersection of traditional programming and modern AI. Toda
 I treat automation as engineering. That means building in failsafes, handling API rate limits, and ensuring smart error routing.
 
 I'm always building, always optimizing. If you're looking for someone to architect intelligent workflows for your team, shoot me a DM.
+
+---
+
+<img width="320" alt="signature" src="https://github.com/user-attachments/assets/23381ffb-8cad-4b31-8445-443d874b0863" />
 
 <!---
 Divine-Jude/Divine-Jude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
