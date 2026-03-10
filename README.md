@@ -7,9 +7,7 @@ I love living at the intersection of traditional programming and modern AI. Toda
 **What I build:**
 
 - End-to-end Orchestration: Architecting complex, multi-stage data pipelines using n8n and Make
-
 - Applied AI: Developing LangChain agents that enforce strict JSON data structures for reliable, real-world execution
-
 - Data Ingestion: Advanced web scraping, DOM parsing, and Regex cleanups
 
 I treat automation as engineering. That means building in failsafes, handling API rate limits, and ensuring smart error routing.
