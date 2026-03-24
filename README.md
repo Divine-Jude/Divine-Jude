@@ -1,6 +1,6 @@
 Hi my name is Divine Jude
 ---
-I am an AI & automation engineer. I build AI automation pipelines that eliminate manual work. 
+I build AI automation pipelines that eliminate manual work. 
 
 I currently operate fully remotely as a Principal AI Automation Engineer. I design multi-step workflows using n8n and large language models. Rather than building simple chatbots, I focus on backend orchestration and system integration.
 
