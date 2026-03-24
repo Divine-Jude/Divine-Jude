@@ -1,20 +1,16 @@
 Hi my name is Divine Jude
 ---
-Hi, I'm Divine, an AI & automation engineer architecting production-grade workflows that replace manual data entry with autonomous, intelligent software logic.
+I am an AI & automation engineer. I build AI automation pipelines that eliminate manual work. 
 
-I love living at the intersection of traditional programming and modern AI. Today’s businesses don't just need basic API connections; they need intelligent systems that can make context-aware decisions. I design and build those systems.
+I currently operate fully remotely as a Principal AI Automation Engineer. I design multi-step workflows using n8n and large language models. Rather than building simple chatbots, I focus on backend orchestration and system integration.
 
-**Here is what I architect and deploy:**
+In a recent project, I constructed an inbound sales pipeline. It automatically scores leads and retrieves real-time corporate news via the Apollo API. The system then updates HubSpot CRM with the results. This specific workflow recovered 25 minutes of manual work per lead for the sales development team.
 
-- Autonomous Revenue Pipelines: Orchestrating n8n, the Apollo API, and HubSpot CRM to completely automate inbound lead scoring, research, and deal-flow evaluation, recovering hundreds of hours of manual SDR workflow
+I also architected an autonomous real estate sourcing system. It extracts unstructured property data from the web and validates it against strict JSON schemas before pushing the structured data to the Airtable API. For the legal compliance side of this project, I built an AI validation agent. This agent reads complex PDF title documents and flags missing signatures or expired dates so human reviewers do not have to. 
 
-- Applied AI Agents: Developing constraint-based LangChain agents backed by vector databases to dynamically retrieve real-time corporate data, authenticate complex legal documents, and strictly enforce JSON schema outputs for CRM ingestion
+My technical stack centres on n8n, Python, vector databases and REST APIs. I write the scripts to handle API rate limits and manage pagination for web scraping. My pipelines also use custom regex to clean up the raw data.
 
-- Robust Data Ingestion: Building high-volume web scraping pipelines featuring recursive pagination, custom regex data sanitization, and intelligent API rate-limit handling
-
-I treat automation as engineering. That means building in strict failsafes (like intent-analysis safeguards to prevent CRM pipeline inflation), handling API limits, and ensuring smart error routing across platforms like Airtable, PostgreSQL, Slack, and HubSpot.
-
-I'm always building, always optimizing. If your team is looking for someone to architect reliable, intelligent workflows that functionally eliminate manual time constraints—let's connect. Feel free to shoot me a DM.
+If your team needs someone to deploy systems that run reliably without manual intervention, send me a message or check my recent work on GitHub.
 
 ---
 
