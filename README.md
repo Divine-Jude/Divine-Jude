@@ -7,6 +7,7 @@ My technical stack centres on n8n, Python, vector databases, and REST APIs. I wr
 If your team needs someone to deploy systems that run reliably without manual intervention, send me a [message](mailto:Judedivine9@gmail.com) or check my recent work on [GitHub.](https://github.com/Divine-Jude/AI-Automation-Engineer-Portfolio)
 
 Working with me is your Best Choice!
+
 ---
 
 <img width="320" alt="signature" src="https://github.com/user-attachments/assets/23381ffb-8cad-4b31-8445-443d874b0863" />
