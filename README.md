@@ -4,7 +4,7 @@ I build intelligent systems that eliminate manual ops and scale business process
 
 My technical stack centres on n8n, Python, vector databases, and REST APIs. I write the scripts to handle API rate limits and manage pagination for web scraping. My pipelines also use custom regex to clean up the raw data.
 
-If your team needs someone to deploy systems that run reliably without manual intervention, send me a [message](mailto:Judedivine9@gmail.com). You can also check my recent work on [GitHub.](https://github.com/Divine-Jude/AI-Automation-Engineer-Portfolio)
+If your team needs someone to deploy systems that run reliably without manual intervention, send me a [message](mailto:Judedivine9@gmail.com). You can also check my recent work on [Website](https://divautomation.notion.site/AI-Automation-Sales-Engineer-5f51cfb0014083c09e2781f60dfa73fa?pvs=74).
 
 Working with me is your Best Choice!
 
