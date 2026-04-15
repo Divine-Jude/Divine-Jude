@@ -1,6 +1,6 @@
 Hi, I'm Divine
 ---
-I build intelligent systems that eliminate manual ops and scale business processes. With 2 years of experience, I currently operate fully remotely as a principal AI Automation Engineer (consultant). I design multi-step workflows using n8n and large language models.
+I build intelligent systems that eliminate manual ops and scale business processes. With 2 years of experience, I currently operate fully remotely as a principal AI Automation Engineer (consultant). I have designed multi-step workflows using n8n and large language models.
 
 My technical stack centres on n8n, Python, vector databases, and REST APIs. I write the scripts to handle API rate limits and manage pagination for web scraping. My pipelines also use custom regex to clean up the raw data.
 
