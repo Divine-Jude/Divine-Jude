@@ -22,19 +22,19 @@ My technical stack centres on n8n, Python, vector databases, and REST APIs. I wr
 
 **Automaly AI Automation Agency (UK)** · Contract · Remote
 
-### AI Automation Specialist
+AI Automation Specialist
 
 Feb 2026 – Present
 
 **Prandelli Dental Clinic** · Contract · Nigeria
 
-### WhatsApp Automation Engineer
+WhatsApp Automation Engineer
 
 April 2025 – June 2025
 
 **Mindrift** · Freelance · Remote
 
-### No-Code Workflow Specialist
+No-Code Workflow Specialist
 
 Jan 2024 – Mar 2025
 
@@ -49,6 +49,15 @@ Jan 2024 – Mar 2025
 | **Languages** | Python · JavaScript · SQL |
 | **Data & Storage** | PostgreSQL (Neon) · Supabase · Airtable · data quality checks |
 | **Integrations** | Gmail · Google Calendar · Google Drive · Google Sheets · HubSpot · Apollo · Odoo · ERPNext · Zoho Books · Slack · WhatsApp Business Platform (Meta) · SerpAPI · OAuth 2.0 |
+
+## Education & Certifications
+
+| Credential | Details |
+| :-- | :-- |
+| **University of Port Harcourt** | B.Sc. Computer Science · Jan 2016 – Nov 2021 |
+| **n8n AI Automation Certificate** | Nov 2023 – Jan 2024 · Udemy (David Soden) |
+| **Virtual Assistant Certificate** | Feb 2023 – Mar 2023 · ALX |
+| **IBM Data Analyst Professional Certificate** | Jun 2022 – Feb 2023 · IBM |
 
 If your team needs someone to deploy systems that run reliably without manual intervention, send me a [message](mailto:Judedivine9@gmail.com). You can also check my [recent work](https://share.google/mzwXaPKtHeQGl8QOX).
 
