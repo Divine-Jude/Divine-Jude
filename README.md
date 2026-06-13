@@ -20,17 +20,17 @@ My technical stack centres on n8n, Python, vector databases, and REST APIs. I wr
 
 ## Experience
 
-**Automaly AI Automation Agency (UK)** · Contract · Remote
+AI Automation Specialist 
 
-AI Automation Specialist · Feb 2026 – Present
+**Automaly AI Automation Agency (UK)** · Contract · Remote Feb 2026 – Present
 
-**Prandelli Dental Clinic** · Contract · Nigeria
+WhatsApp Automation Engineer
 
-WhatsApp Automation Engineer · April 2025 – June 2025
+**Prandelli Dental Clinic (Nigeria)** · Contract · Remote April 2025 – June 2025
 
-**Mindrift** · Freelance · Remote
+No-Code Workflow Specialist 
 
-No-Code Workflow Specialist · Jan 2024 – Mar 2025
+**Mindrift Freelance platform** · Freelance · Remote Jan 2024 – Mar 2025
 
 ---
 
